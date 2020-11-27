@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/acceuil"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="39dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView">
+
+        <ImageView
+            android:layout_marginEnd="20dp"
+            android:id="@+id/fish_game"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_aquarium" />
+
+        <ImageView
+            android:layout_marginEnd="20dp"
+            android:id="@+id/crab_game"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_crab" />
+
+        <ImageView
+            android:id="@+id/bubble_game"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/icon_bubble" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

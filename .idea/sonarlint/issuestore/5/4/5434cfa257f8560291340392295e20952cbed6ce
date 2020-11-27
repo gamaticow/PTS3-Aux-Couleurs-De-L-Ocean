@@ -1,0 +1,227 @@
+
+E
+java:S2140ê")Use "java.util.Random.nextInt()" instead.(Ç°¹íùÿÿÿÿ
+E
+java:S2140¥")Use "java.util.Random.nextInt()" instead.(šıâùÿÿÿÿ
+D
+java:S21402")Use "java.util.Random.nextInt()" instead.(§àÿÛúÿÿÿÿ
+`
+java:S1124x"EReorder the modifiers to comply with the Java Language Specification.(¯Ó»üùÿÿÿÿ
+?
+java:S2140e")Use "java.util.Random.nextInt()" instead.(–‚€°
+o	java:S115|"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡ÙŞ¾
+?
+java:S2140-")Use "java.util.Random.nextInt()" instead.(°ÌÈ
+[
+java:S1124|"EReorder the modifiers to comply with the Java Language Specification.(‡ÙŞ¾
+[
+java:S1124u"EReorder the modifiers to comply with the Java Language Specification.(ú¯°Ì
+:
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119Ğ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+@
+java:S2140±")Use "java.util.Random.nextInt()" instead.(›Åœ¤
+]
+java:S2184‘"ACast one of the operands of this division operation to a "float".(î¨÷ÿÿÿÿÿ
+E
+java:S2140Ø")Use "java.util.Random.nextInt()" instead.(â–†ºùÿÿÿÿ
+|
+java:S1488¾"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+E
+java:S2140ö")Use "java.util.Random.nextInt()" instead.(Ó™ªìıÿÿÿÿ
+X
+java:S2184‰"ACast one of the operands of this division operation to a "float".(ÀÍ°‘
+o	java:S116€"TRename this field "crab_stat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖºÅĞûÿÿÿÿ
+o	java:S116"TRename this field "ball_stat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çíışÿÿÿÿ
+U
+java:S1117Û"9Rename "paint" which hides the field declared at line 36.(ÔŸ½Ôıÿÿÿÿ
+@
+java:S2140Š")Use "java.util.Random.nextInt()" instead.(¨Ãª›
+D
+java:S2140J")Use "java.util.Random.nextInt()" instead.(¼¿úùÿÿÿÿ
+t	java:S115v"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÂ³¹úÿÿÿÿ
+o	java:S115w"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(î”¶¹
+?
+java:S21401")Use "java.util.Random.nextInt()" instead.(›‹«Â
+D
+java:S2140a")Use "java.util.Random.nextInt()" instead.(¶…‘úÿÿÿÿ
+?
+java:S2140i")Use "java.util.Random.nextInt()" instead.(±›À‹
+|
+java:S1488£"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+:
+java:S2119”"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+]
+java:S2184›"ACast one of the operands of this division operation to a "float".(…ÿæÑúÿÿÿÿ
+[
+java:S1124w"EReorder the modifiers to comply with the Java Language Specification.(î”¶¹
+@
+java:S2140¹")Use "java.util.Random.nextInt()" instead.(›Åœ¤
+:
+java:S2119Ê"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+X
+java:S1126Ó"AReplace this if-then-else statement by a single return statement.(œ­Şş
+`
+java:S1124{"EReorder the modifiers to comply with the Java Language Specification.(ş¡ƒŞùÿÿÿÿ
+E
+java:S1172Õ".Remove this unused method parameter "context".(ş¢š½
+Q	java:S125‡"<This block of commented-out lines of code should be removed.(öµ©@
+N
+java:S1197>"8Move the array designator from the variable to the type.(Ö’¨Ç
+E
+java:S2140Å")Use "java.util.Random.nextInt()" instead.(‰ï°³úÿÿÿÿ
+o
+java:S1104"YMake accelerometer a static final constant or non-public and provide accessors if needed.(“ã£
+D
+java:S2140F")Use "java.util.Random.nextInt()" instead.(®Şò€ûÿÿÿÿ
+t	java:S115z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùµ•ôøÿÿÿÿ
+o	java:S115t"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬î¨ö
+E
+java:S2140ş")Use "java.util.Random.nextInt()" instead.(Ó™ªìıÿÿÿÿ
+E
+java:S2140Ì")Use "java.util.Random.nextInt()" instead.(‰ï°³úÿÿÿÿ
+t	java:S115s"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(÷Û ‚ùÿÿÿÿ
+E
+java:S2140¨")Use "java.util.Random.nextInt()" instead.(íûçøÿÿÿÿ
+o	java:S116;"URename this field "vie_nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¨ôşÿÿÿÿ
+`
+java:S1124v"EReorder the modifiers to comply with the Java Language Specification.(ŠÂ³¹úÿÿÿÿ
+@
+java:S2140Ä")Use "java.util.Random.nextInt()" instead.(â­ÆÈ
+X
+java:S2184—"ACast one of the operands of this division operation to a "float".(•½ãß
+j
+java:S1450o"TRemove the "star1" field and declare it as a local variable in the relevant methods.(ÕØİ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÕÆ¾ùıÿÿÿÿ
+`
+java:S1124s"EReorder the modifiers to comply with the Java Language Specification.(÷Û ‚ùÿÿÿÿ
+@
+java:S2140’")Use "java.util.Random.nextInt()" instead.(¨Ãª›
+@
+java:S2140Ø")Use "java.util.Random.nextInt()" instead.(€µÑ³
+]
+java:S2184™"ACast one of the operands of this division operation to a "float".(ë²ê‹şÿÿÿÿ
+|
+java:S1488Ä"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+n	java:S115y"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»®“&
+D
+java:S2140'")Use "java.util.Random.nextInt()" instead.(ÒéÇ¯ÿÿÿÿÿ
+:
+java:S2119·"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+E
+java:S2140")Use "java.util.Random.nextInt()" instead.(šıâùÿÿÿÿ
+E
+java:S1068~"*Remove this unused "valide" private field.(ö†¼Êøÿÿÿÿ
+W
+java:S2184"ACast one of the operands of this division operation to a "float".(àÚâ<
+:
+java:S2119¢"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+:
+java:S2119Ã"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+E
+java:S2140ñ")Use "java.util.Random.nextInt()" instead.(äÈ²ùÿÿÿÿ
+@
+java:S2140ß")Use "java.util.Random.nextInt()" instead.(€µÑ³
+˜
+java:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ĞŠß±
+|
+java:S1488ª"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+?
+java:S2140,")Use "java.util.Random.nextInt()" instead.(ô˜‹ì
+>
+java:S2140R")Use "java.util.Random.nextInt()" instead.(¸©¤
+t	java:S115{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ş¡ƒŞùÿÿÿÿ
+8	java:S131‹""Add a default case to this switch.(ş™ÅŞ
+?
+java:S1068o")Remove this unused "star1" private field.(ÕØİ
+:
+java:S2119°"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+@
+java:S2140‚")Use "java.util.Random.nextInt()" instead.(ŒÀ‰î
+t	java:S115x"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯Ó»üùÿÿÿÿ
+i
+java:S1104"SMake context a static final constant or non-public and provide accessors if needed.(˜£à
+D
+java:S2140N")Use "java.util.Random.nextInt()" instead.(ÍŠ¤úûÿÿÿÿ
+[
+java:S1124t"EReorder the modifiers to comply with the Java Language Specification.(¬î¨ö
+|
+java:S1488¸"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+X
+java:S2184“"ACast one of the operands of this division operation to a "float".(‰–˜ë
+R	java:S125Á"<This block of commented-out lines of code should be removed.(×Êˆ
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ê§ûıÿÿÿÿ
+Z
+java:S1124y"EReorder the modifiers to comply with the Java Language Specification.(»®“&
+?
+java:S2140B")Use "java.util.Random.nextInt()" instead.(‘„¯Ë
+]
+java:S2184‹"ACast one of the operands of this division operation to a "float".(ë±·ºıÿÿÿÿ
+k
+java:S1104#"PMake bird a static final constant or non-public and provide accessors if needed.(‘Şà³üÿÿÿÿ
+|
+java:S1488Ë"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+j	java:S116?"URename this field "life_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Œ›
+>
+java:S2140(")Use "java.util.Random.nextInt()" instead.(Œè€+
+|
+java:S1488±"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+|
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+|
+java:S1488œ"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+:
+java:S2119©"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÉ±úÿÿÿÿÿ
+@
+java:S2140ù")Use "java.util.Random.nextInt()" instead.(Ğ°‘
+E
+java:S2140ù")Use "java.util.Random.nextInt()" instead.(ÓÛëÛùÿÿÿÿ
+X
+java:S2184•"ACast one of the operands of this division operation to a "float".(¤óŸ
+`
+java:S1124z"EReorder the modifiers to comply with the Java Language Specification.(ùµ•ôøÿÿÿÿ
+E
+java:S2140°")Use "java.util.Random.nextInt()" instead.(íûçøÿÿÿÿ
+|
+java:S1488Ñ"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+E
+java:S2140ê")Use "java.util.Random.nextInt()" instead.(óÕæìúÿÿÿÿ
+S
+java:S1197:"8Move the array designator from the variable to the type.(Ö©òıÿÿÿÿ
+E
+java:S2140ñ")Use "java.util.Random.nextInt()" instead.(Ç°¹íùÿÿÿÿ
+|
+java:S1488•"eImmediately return this expression instead of assigning it to the temporary variable "randomElement".(Ë¦ĞÊ
+E
+java:S2140â")Use "java.util.Random.nextInt()" instead.(óÕæìúÿÿÿÿ
+:
+java:S2119›"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+X
+java:S2184"ACast one of the operands of this division operation to a "float".(‘Ÿ„
+o	java:S115u"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú¯°Ì
+?
+java:S2140V")Use "java.util.Random.nextInt()" instead.(ñî¬ë
+]
+java:S2184"ACast one of the operands of this division operation to a "float".(şÓÉğøÿÿÿÿ
+t
+java:S1104"YMake sensorManager a static final constant or non-public and provide accessors if needed.(ûÆÚÕüÿÿÿÿ
+D
+java:S2140Y")Use "java.util.Random.nextInt()" instead.(¯š† øÿÿÿÿ
+@
+java:S2140¼")Use "java.util.Random.nextInt()" instead.(â­ÆÈ
+E
+java:S2140")Use "java.util.Random.nextInt()" instead.(™‰´®ùÿÿÿÿ
+`
+java:S1124r"EReorder the modifiers to comply with the Java Language Specification.(†Ãşÿÿÿÿ
+t	java:S115r"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†Ãşÿÿÿÿ
+E
+java:S2140ı")Use "java.util.Random.nextInt()" instead.(º‚¾åşÿÿÿÿ
+:
+java:S2119½"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+D
+java:S2140]")Use "java.util.Random.nextInt()" instead.(ÌÍãùüÿÿÿÿ
+E
+java:S2140Ğ")Use "java.util.Random.nextInt()" instead.(â–†ºùÿÿÿÿ

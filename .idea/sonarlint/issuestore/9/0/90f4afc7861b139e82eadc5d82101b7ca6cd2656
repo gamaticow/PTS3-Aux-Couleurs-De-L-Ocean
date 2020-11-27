@@ -1,0 +1,17 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(Σ€•
+>
+java:S1604"(Make this anonymous inner class a lambda(ή΄ϊ
+k	java:S116"VRename this field "my_runnable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“‘ς
+E
+java:S1874"/Remove this use of "Handler"; it is deprecated.(οσξ‘
+M
+java:S1068"2Remove this unused "TIMER_INTERVAL" private field.(³Τ­ωÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(³Τ­ωÿÿÿÿ
+)
+java:S1700"Rename field "game"(Θ³¦ή
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³π‹G8λος–έ.
+P
+java:S2209J"5Change this instance-reference to a static reference.(ΉΔªωÿÿÿÿ
