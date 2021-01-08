@@ -8,9 +8,11 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 
-import fr.gamaticow.auxcouleursdelocean.bubble.controleur.MenuActivity;
-import fr.gamaticow.auxcouleursdelocean.crab.MainActivity2;
-import fr.gamaticow.auxcouleursdelocean.fish.controller.FishLevelActivity;
+import fr.gamaticow.auxcouleursdelocean.controller.CreditActivity;
+import fr.gamaticow.auxcouleursdelocean.controller.LevelActivity;
+import fr.gamaticow.auxcouleursdelocean.controller.SettingsActivity;
+import fr.gamaticow.auxcouleursdelocean.model.Settings;
+import fr.gamaticow.auxcouleursdelocean.model.SoundManager;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,9 +21,34 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        findViewById(R.id.fish_game).setOnClickListener(event -> startActivity(new Intent(this, FishLevelActivity.class)));
-        findViewById(R.id.crab_game).setOnClickListener(event -> startActivity(new Intent(this, MainActivity2.class)));
-        findViewById(R.id.bubble_game).setOnClickListener(event -> startActivity(new Intent(this, MenuActivity.class)));
+        Settings.loadSettings(this);
+        new SoundManager(this);
+
+
+        final Intent intent = new Intent(this, LevelActivity.class);
+
+        findViewById(R.id.fish_game).setOnClickListener(view -> {
+            intent.putExtra(LevelActivity.EXTRA_GAME, fr.gamaticow.auxcouleursdelocean.controller.fish.GameActivity.class);
+            startActivity(intent);
+        });
+        findViewById(R.id.crab_game).setOnClickListener(view -> {
+            intent.putExtra(LevelActivity.EXTRA_GAME, fr.gamaticow.auxcouleursdelocean.controller.crab.GameActivity.class);
+            startActivity(intent);
+        });
+        findViewById(R.id.bubble_game).setOnClickListener(view -> {
+            intent.putExtra(LevelActivity.EXTRA_GAME, fr.gamaticow.auxcouleursdelocean.controller.bubbles.GameActivity.class);
+            startActivity(intent);
+        });
+
+        findViewById(R.id.credit).setOnClickListener(view -> {
+            Intent credit = new Intent(this, CreditActivity.class);
+            startActivity(credit);
+        });
+
+        findViewById(R.id.settings).setOnClickListener(view -> {
+            Intent settings = new Intent(this, SettingsActivity.class);
+            startActivity(settings);
+        });
     }
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)

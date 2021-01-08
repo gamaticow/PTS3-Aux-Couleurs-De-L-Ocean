@@ -5,13 +5,8 @@
     android:id="@+id/fish_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fish.controller.GameActivity">
-
-    <ImageView
-        android:layout_height="match_parent"
-        android:layout_width="match_parent"
-        android:src="@drawable/aquarium"
-        android:scaleType="fitXY"/>
+    tools:context=".controller.fish.GameActivity"
+    android:background="#FF61A1AB">
 
     <LinearLayout
         android:id="@+id/hearts_layout"

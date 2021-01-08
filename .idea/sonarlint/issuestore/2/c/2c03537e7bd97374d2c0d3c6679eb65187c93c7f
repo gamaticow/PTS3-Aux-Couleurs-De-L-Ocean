@@ -1,9 +1,0 @@
-
-?
-java:S2140B")Use "java.util.Random.nextInt()" instead.(ùÖ¶
-D
-java:S2140G")Use "java.util.Random.nextInt()" instead.(º™À‘üÿÿÿÿ
-?
-java:S2140=")Use "java.util.Random.nextInt()" instead.(ì´æô
-Y
-java:S1128"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ
